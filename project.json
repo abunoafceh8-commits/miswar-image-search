@@ -1,6 +1,20 @@
 {
-  "slug": "miswar-image-search",
-  "url": "https://miswar-image-search-4ivf.arcada.app/",
-  "title": "Miswar Image Search",
-  "desc": "أداة بحث الصور (Miswar)."
+  "name": "miswar-image-search",
+  "title": "مِصوَر — بحث الصور وتنزيلها (الموقع الرئيسي)",
+  "category": "أدوات الصور",
+  "description": "بحث عميق عن الصور من محركات الويب والمنصات الاجتماعية، مع تنزيل جماعي وتصدير ZIP.",
+  "liveUrl": "https://miswar-image-search-4ivf.arcada.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "مِصوَر — بحث الصور وتنزيلها",
+  "originalDescription": "مِصوَر — بحث عميق عن الصور من محركات الويب والمنصات الاجتماعية، مع تنزيل جماعي وتصدير ZIP.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "original-app.css",
+    "assets/index-Bw2Kda1Q.js",
+    "assets/index-DbE04hNW.css"
+  ]
 }
